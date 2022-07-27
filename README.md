@@ -24,7 +24,7 @@ Open datasets & sites that allow to share different neuroimaging datasets.
 * [BIDS](https://bids.neuroimaging.io): Brain Imaging Data Structure; simple and intuitive way to organize and describe neuroimaging and behavioral data
 * [Docker](https://www.docker.com): OS-level virtualization to deliver software in packages called containers
 * [Protocols.io](https://www.protocols.io): science methods, assays, clinical trials, operational procedures and checklists for keeping your protocols up do date as recommended by Good Laboratory Practice (GLP) and Good Manufacturing Practice (GMP)
-* [Sample Consent Forms for neuroimaging research](https://open-brain-consent.readthedocs.io/en/stable/) (EN/DE) | [The Open Brain Consent](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25351)
+* [Sample Consent Forms for neuroimaging research](https://open-brain-consent.readthedocs.io/en/stable/) (EN/DE) | [The Open Brain Consent](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25351): an international initiative that aims to provide researchers in the brain imaging community with information about data sharing options and tools
 
 ### MRI / fMRI
 
