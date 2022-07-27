@@ -26,7 +26,7 @@ Sites that allow to share neuroimaging datasets.
 * [Protocols.io](https://www.protocols.io): science methods, assays, clinical trials, operational procedures and checklists for keeping your protocols up do date as recommended by Good Laboratory Practice (GLP) and Good Manufacturing Practice (GMP)
 * [Sample Consent Forms for neuroimaging research](https://open-brain-consent.readthedocs.io/en/stable/) (EN/DE) | [The Open Brain Consent](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25351): an international initiative that aims to provide researchers in the brain imaging community with information about data sharing options and tools
 
-### MRI / fMRI
+### MRI/ fMRI
 
 * [fMRIPrep](https://fmriprep.org/en/stable/): a preprocessing pipeline for task-based and resting-state fMRI data
 * [Neurosynth](https://neurosynth.org): a platform for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data
