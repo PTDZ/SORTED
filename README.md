@@ -4,7 +4,7 @@ SORTED: a list of interesting science ideas and links (cognitive/neuro &amp; dat
 <div id="top"></div>
 
 ## Open data movement
-Open datasets & sites that allow to share different neuroimaging datasets.
+Sites that allow to share neuroimaging datasets.
 
 ### Platforms
 * [OpenNeuro](https://openneuro.org): BIDS-compliant MRI, PET, MEG, EEG, and iEEG data 
