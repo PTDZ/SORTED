@@ -8,7 +8,9 @@ Sites that allow to share neuroimaging datasets.
 
 ### Platforms
 * [OpenNeuro](https://openneuro.org): BIDS-compliant MRI, PET, MEG, EEG, and iEEG data 
+* [OpenNeuro PET](https://openneuropet.github.io): BIDS-compliant PET data
 * [NeuroVault](https://neurovault.org): unthresholded statistical maps, parcellations, and atlases produced by MRI and PET studies
+* [BossDB](https://bossdb.org): a volumetric database for 3D and 4D neuroscience data
 
 ### Other lists
 * [openlists/ElectrophysiologyData](https://github.com/openlists/ElectrophysiologyData): EEG, MEG, ECoG/iEEG, and LFP data
@@ -24,15 +26,19 @@ Sites that allow to share neuroimaging datasets.
 * [BIDS](https://bids.neuroimaging.io): Brain Imaging Data Structure; simple and intuitive way to organize and describe neuroimaging and behavioral data
 * [Protocols.io](https://www.protocols.io): science methods, assays, clinical trials, operational procedures and checklists for keeping your protocols up do date as recommended by Good Laboratory Practice (GLP) and Good Manufacturing Practice (GMP)
 * [Sample Consent Forms for neuroimaging research](https://open-brain-consent.readthedocs.io/en/stable/) (EN/DE) | [The Open Brain Consent](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25351): an international initiative that aims to provide researchers in the brain imaging community with information about data sharing options and tools
+* [DataLad](https://www.datalad.org): a free and open source distributed data management system
 
-### Coding/ Data science
+### Coding/ Software
 * [Dask](https://www.dask.org): parallel computing with python
 * [Docker](https://www.docker.com): OS-level virtualization to deliver software in packages called containers
 
-### MRI/ fMRI
+### Neuroscience
 
 * [fMRIPrep](https://fmriprep.org/en/stable/): a preprocessing pipeline for task-based and resting-state fMRI data
 * [Neurosynth](https://neurosynth.org): a platform for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data
+* [NEMAR](https://nemar.org): an open access data, tools, and compute resource for assessing and processing human NeuroElectroMagnetic data shared by its authors thru OpenNeuro
+* [ReproNim](https://www.repronim.org/index.html): ReproNim delivers a reproducible analysis framework
+* [NiMARE](https://nimare.readthedocs.io/en/latest/): a Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
