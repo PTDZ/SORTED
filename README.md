@@ -39,6 +39,7 @@ Sites that allow to share neuroimaging datasets.
 * [NEMAR](https://nemar.org): an open access data, tools, and compute resource for assessing and processing human NeuroElectroMagnetic data shared by its authors thru OpenNeuro
 * [ReproNim](https://www.repronim.org/index.html): ReproNim delivers a reproducible analysis framework
 * [NiMARE](https://nimare.readthedocs.io/en/latest/): a Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment)
+* [BrainIAK](https://brainiak.org): advanced fMRI analyses in Python, optimized for speed under the hood with MPI, Cython, and C++
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
