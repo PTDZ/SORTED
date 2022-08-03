@@ -75,6 +75,9 @@ Sites that allow to share neuroimaging datasets.
 * *Scanning the horizon: towards transparent and reproducible neuroimaging research* (Nat Rev Neurosci/ Russell A. Poldrack et al.) | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6910649/): problems that should be acknowledge during neuroimaging data analysis (low statistical power, flexibility in data analysis, software errors etc.)
 * *Variability in the analysis of a single neuroimaging dataset by many teams* (Nature/ Rotem Botvinik-Nezer et al.) | [Paper](https://www.nature.com/articles/s41586-020-2314-9): analytical flexibility can have substantial effects on scientific conclusions
 * *How to get statistically significant effects in any ERP experiment* (and why you shouldn't) (Psychophysiology/ Steven J. Luck & Nicholas Gaspelin) | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178877/): the purpose of this paper is to demonstrate how common and seemingly innocuous methods for quantifying and analyzing ERP effects can lead to very high rates of significant-but-bogus effects
+* *Slowed canonical progress in large fields of science* (PNAS/ Johan S. G. Chu &  James A. Evans) | [Paper](https://www.pnas.org/doi/10.1073/pnas.2021636118): "Examining 1.8 billion citations among 90 million papers across 241 subjects, we find a deluge of papers does not lead to turnover of central ideas in a field, but rather to ossification of canon. Scholars in fields where many papers are published annually face difficulty getting published, read, and cited unless their work references already widely cited articles. New papers containing potentially important contributions cannot garner field-wide attention through gradual processes of diffusion."
+* *False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant* (Joseph P. Simmons & Leif D. Nelson) | [Paper](https://journals.sagepub.com/doi/full/10.1177/0956797611417632): "First, we show that despite empirical psychologists’ nominal endorsement of a low rate of false-positive findings (≤ .05), flexibility in data collection, analysis, and reporting dramatically increases actual false-positive rates."
+
 
 ### Other
 
@@ -93,7 +96,7 @@ Sites that allow to share neuroimaging datasets.
 ## Conferences / Symposia
 
 * [AI in aging and age-related diseases](https://www.elsevier.com/events/conferences/artificial-intelligence-neurology-aging/submit-abstract): 11-13 November 2022, on-line and on-demand; deadline: 3 October 2022
-* 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Initiatives, research groups, associations...
