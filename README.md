@@ -100,6 +100,7 @@ Sites that allow to share neuroimaging datasets.
 
 #### On-line resources
 * [ReproNim Statistics Module](http://www.repronim.org/module-stats/): Statistical basis for neuroimaging analyses: the basics / Effect size and variation of effect sizes in brain imaging /	P-values and their issues / Statistical power in neuroimaging and statistical reproducibility / The positive Predictive Value / Cultural and psychological issues
+* [DataCamp](https://www.datacamp.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -125,10 +126,13 @@ Sites that allow to share neuroimaging datasets.
 
 #### Travel grants
 * [Travelling Fellowships, The Company of Biologists](https://www.biologists.com/travelling-fellowships/)
+* [Bekker NAWA](https://nawa.gov.pl/naukowcy/program-imienia-bekkera): [only PL]
+* [ReproNim/INCF Training Fellowship](https://www.repronim.org/fellowship.html)
 
 #### Grants
 * [Lider](https://www.gov.pl/web/ncbr/lider): [only PL], deadline: March 2023
 * [OPUS NCN](https://www.ncn.gov.pl/): [only PL], deadline: December 2022
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
