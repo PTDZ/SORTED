@@ -116,11 +116,19 @@ Sites that allow to share neuroimaging datasets.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Interesting companies & labs, internships, job advertisements
+## Interesting companies & labs, internships, job advertisements, grants & travel grants
 
-
+#### Companies & labs
 * [DeepMind](https://www.deepmind.com): "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity"
+* [The Center for Brains, Minds and Machines](https://cbmm.mit.edu)
 * [NeuroDataScience - ORIGAMI lab](https://neurodatascience.github.io)
+
+#### Travel grants
+* [Travelling Fellowships, The Company of Biologists](https://www.biologists.com/travelling-fellowships/)
+
+#### Grants
+[Lider](https://www.gov.pl/web/ncbr/lider): [only PL], deadline: March 2023
+[OPUS NCN](https://www.ncn.gov.pl/): [only PL], deadline: December 2022
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
