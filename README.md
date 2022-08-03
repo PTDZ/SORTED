@@ -40,6 +40,7 @@ Sites that allow to share neuroimaging datasets.
 * [ReproNim](https://www.repronim.org/index.html): ReproNim delivers a reproducible analysis framework
 * [NiMARE](https://nimare.readthedocs.io/en/latest/): a Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment)
 * [BrainIAK](https://brainiak.org): advanced fMRI analyses in Python, optimized for speed under the hood with MPI, Cython, and C++
+* Brain-age models (brain-predicted age value from a raw T1-weighted MRI scans): [BrainAge](https://github.com/MIDIconsortium/BrainAge), [brainageR](https://github.com/james-cole/brainageR)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -89,6 +90,12 @@ Sites that allow to share neuroimaging datasets.
 ## Initiatives, research groups, associations...
 
 * [ENIGMA](https://enigma.ini.usc.edu): The ENIGMA Consortium brings together researchers in imaging genomics to understand brain structure, function, and disease, based on brain imaging and genetic data 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Companies, internships, job advertisements
+
+* [DeepMind](https://www.deepmind.com): "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity"
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
