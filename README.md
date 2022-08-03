@@ -41,6 +41,7 @@ Sites that allow to share neuroimaging datasets.
 * [NiMARE](https://nimare.readthedocs.io/en/latest/): a Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment)
 * [BrainIAK](https://brainiak.org): advanced fMRI analyses in Python, optimized for speed under the hood with MPI, Cython, and C++
 * Brain-age models (brain-predicted age value from a raw T1-weighted MRI scans): [BrainAge](https://github.com/MIDIconsortium/BrainAge), [brainageR](https://github.com/james-cole/brainageR)
+* [ADDI](https://www.alzheimersdata.org) + [AD Workbench](https://www.alzheimersdata.org/ad-workbench): Alzheimer's Disease Data Initiative; "a free data sharing platform, data science tools, funding opportunities, and global collaborations, ADDI is advancing scientific breakthroughs and accelerating progress towards new treatments and cures for AD and related dementias"
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,9 +109,11 @@ Sites that allow to share neuroimaging datasets.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Companies, internships, job advertisements
+## Interesting companies & labs, internships, job advertisements
+
 
 * [DeepMind](https://www.deepmind.com): "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity"
+* [NeuroDataScience - ORIGAMI lab](https://neurodatascience.github.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
