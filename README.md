@@ -82,6 +82,9 @@ Sites that allow to share neuroimaging datasets.
 * *The file drawer problem and tolerance for null results* (Robert Rosenthal) | [Paper](https://pages.ucsd.edu/~cmckenzie/Rosenthal1979PsychBulletin.pdf): "For any given research area, one cannot tell how many studies have been conducted but never reported. The extreme view of the "file drawer problem" is that journals are filled with the 5% of the studies that show Type I errors, while the file drawers are filled with the 95% of the studies that show nonsignificant results."
 * *Is there a large sample size problem?* (Richard A. Armstrong) | [Paper](https://onlinelibrary.wiley.com/doi/10.1111/opo.12618) & *The paradox of large samples* (S. Kunte & A. P. Gore) [Paper](https://www.jstor.org/stable/24093874): statistical issues with large sample sizes
 
+#### Other articles
+* *A hitchhiker’s guide to working with large, open-source neuroimaging datasets* (Corey Horien et al.) | [Paper](https://www.nature.com/articles/s41562-020-01005-4): "Here we offer practical tips for working with large datasets from the end-user’s perspective. We cover all aspects of the data lifecycle: from what to consider when downloading and storing the data to tips on how to become acquainted with a dataset one did not collect and what to share when communicating results"
+
 ### Other
 
 * [Karty Data Science](https://kartydatascience.pl): [PL only]
