@@ -76,15 +76,24 @@ Sites that allow to share neuroimaging datasets.
 * *Variability in the analysis of a single neuroimaging dataset by many teams* (Nature/ Rotem Botvinik-Nezer et al.) | [Paper](https://www.nature.com/articles/s41586-020-2314-9): analytical flexibility can have substantial effects on scientific conclusions
 * *How to get statistically significant effects in any ERP experiment* (and why you shouldn't) (Psychophysiology/ Steven J. Luck & Nicholas Gaspelin) | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5178877/): the purpose of this paper is to demonstrate how common and seemingly innocuous methods for quantifying and analyzing ERP effects can lead to very high rates of significant-but-bogus effects
 
+### Other
+
+* [Karty Data Science](https://kartydatascience.pl): [PL only]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Summer Schools, Courses, Hackathons etc.
+## Summer Schools / Courses / Hackathons etc.
 
 * [Neurohackademy](https://neurohackademy.org): a summer school in neuroiming & data science, held at the University of Washington eScience Institute
 * [Neuromatch](https://neuromatch.io): Neuromatch Academy (computational techniques crucial both in academia and industry (3-week program)) & Neuromatch Conference (a conference for the computational neuroscience community)
 * [Google Summer of Code](https://summerofcode.withgoogle.com): a global, online program focused on bringing new contributors into open source software development
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Conferences / Symposia
+
+* [AI in aging and age-related diseases](https://www.elsevier.com/events/conferences/artificial-intelligence-neurology-aging/submit-abstract): 11-13 November 2022, on-line and on-demand; deadline: 3 October 2022
+* 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Initiatives, research groups, associations...
