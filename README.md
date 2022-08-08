@@ -11,6 +11,8 @@ Sites that allow to share neuroimaging datasets.
 * [OpenNeuro PET](https://openneuropet.github.io): BIDS-compliant PET data
 * [NeuroVault](https://neurovault.org): unthresholded statistical maps, parcellations, and atlases produced by MRI and PET studies
 * [BossDB](https://bossdb.org): a volumetric database for 3D and 4D neuroscience data
+* [GigaDB](http://gigadb.org): GigaDB contains 2201 discoverable, trackable, and citable datasets that have been assigned DOIs and are available for public download and use
+* [Machine learning datasets](https://www.datasetlist.com): a list of machine learning datasets from across the web
 
 ### Other lists
 * [openlists/ElectrophysiologyData](https://github.com/openlists/ElectrophysiologyData): EEG, MEG, ECoG/iEEG, and LFP data
