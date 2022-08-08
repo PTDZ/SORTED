@@ -98,6 +98,9 @@ Sites that allow to share neuroimaging datasets.
 * [Google Summer of Code](https://summerofcode.withgoogle.com): a global, online program focused on bringing new contributors into open source software development
 * [ReproNim Statistics Module](http://www.repronim.org/module-stats/): Statistical basis for neuroimaging analyses: the basics / Effect size and variation of effect sizes in brain imaging /	P-values and their issues / Statistical power in neuroimaging and statistical reproducibility / The positive Predictive Value / Cultural and psychological issues
 
+#### Other lists
+* [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools): list of summer schools in neuroscience and related fields
+
 #### On-line resources
 * [ReproNim Statistics Module](http://www.repronim.org/module-stats/): Statistical basis for neuroimaging analyses: the basics / Effect size and variation of effect sizes in brain imaging /	P-values and their issues / Statistical power in neuroimaging and statistical reproducibility / The positive Predictive Value / Cultural and psychological issues
 * [DataCamp](https://www.datacamp.com)
