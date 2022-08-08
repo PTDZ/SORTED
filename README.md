@@ -145,6 +145,7 @@ Sites that allow to share neuroimaging datasets.
 * [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience): "A curated list of awesome neuroscience libraries, software and any content related to the domain." (*more general/cell-level oriented list)
 * [Open Computational Neuroscience Resources](https://github.com/asoplata/open-computational-neuroscience-resources): a publicly-editable collection of open computational neuroscience resources
 * [Open Science Resources](https://github.com/asoplata/open-science-resources): a publicly-editable collection of open science resources, including tools, datasets, meta-resources, etc.
+* [OtherLists](https://github.com/openlists/OtherLists): a list of other lists that collect & curate resources
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
