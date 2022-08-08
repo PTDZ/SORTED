@@ -137,6 +137,11 @@ Sites that allow to share neuroimaging datasets.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Miscellaneous
+* [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience): "A curated list of awesome neuroscience libraries, software and any content related to the domain." (*more general/cell-level oriented list)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## If you'd like to add anything...
 
 Patrycja | mail[at]ptdz.pl
