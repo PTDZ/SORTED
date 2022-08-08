@@ -114,6 +114,7 @@ Sites that allow to share neuroimaging datasets.
 
 * [ENIGMA](https://enigma.ini.usc.edu): The ENIGMA Consortium brings together researchers in imaging genomics to understand brain structure, function, and disease, based on brain imaging and genetic data 
 * [The EuroLaD-EEG consortium](https://brainlat.uai.cl/research-and-networking-projects/seed-grants/the-eurolad-eeg-consortium-towards-a-global-eeg-platform-for-dementia/): towards a global EEG platform for dementia (*more information is not yet available)
+* [BrainArt SIG](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3911): "The scope of the Brain–Art SIG is to promote the exchange between Art & Science by fostering the dialogue between artists and members of the OHBM community." | [Paper](https://psyarxiv.com/uywc5/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
