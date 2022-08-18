@@ -39,7 +39,7 @@ Sites that allow to share neuroimaging datasets.
 
 * [fMRIPrep](https://fmriprep.org/en/stable/): a preprocessing pipeline for task-based and resting-state fMRI data
 * [Neurosynth](https://neurosynth.org): a platform for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data
-* [BrainMap](https://brainmap.org): a database of published functional and structural neuroimaging experiments with coordinate-based results (x,y,z) in Talairach or MNI space.
+* [BrainMap](https://brainmap.org): a database of published functional and structural neuroimaging experiments with coordinate-based results (x,y,z) in Talairach or MNI space
 * [NEMAR](https://nemar.org): an open access data, tools, and compute resource for assessing and processing human NeuroElectroMagnetic data shared by its authors thru OpenNeuro
 * [ReproNim](https://www.repronim.org/index.html): ReproNim delivers a reproducible analysis framework
 * [NiMARE](https://nimare.readthedocs.io/en/latest/): a Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment)
