@@ -100,7 +100,6 @@ Sites that allow to share neuroimaging datasets.
 * [Neurohackademy](https://neurohackademy.org): a summer school in neuroiming & data science, held at the University of Washington eScience Institute
 * [Neuromatch](https://neuromatch.io): Neuromatch Academy (computational techniques crucial both in academia and industry (3-week program)) & Neuromatch Conference (a conference for the computational neuroscience community)
 * [Google Summer of Code](https://summerofcode.withgoogle.com): a global, online program focused on bringing new contributors into open source software development
-* [ReproNim Statistics Module](http://www.repronim.org/module-stats/): Statistical basis for neuroimaging analyses: the basics / Effect size and variation of effect sizes in brain imaging /	P-values and their issues / Statistical power in neuroimaging and statistical reproducibility / The positive Predictive Value / Cultural and psychological issues
 
 #### Other lists
 * [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools): list of summer schools in neuroscience and related fields
