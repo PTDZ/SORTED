@@ -30,6 +30,7 @@ Sites that allow to share neuroimaging datasets.
 * [Protocols.io](https://www.protocols.io): science methods, assays, clinical trials, operational procedures and checklists for keeping your protocols up do date as recommended by Good Laboratory Practice (GLP) and Good Manufacturing Practice (GMP)
 * [Sample Consent Forms for neuroimaging research](https://open-brain-consent.readthedocs.io/en/stable/) (EN/DE) | [The Open Brain Consent](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25351): an international initiative that aims to provide researchers in the brain imaging community with information about data sharing options and tools
 * [DataLad](https://www.datalad.org): a free and open source distributed data management system
+* [ADDI](https://www.alzheimersdata.org) + [AD Workbench](https://www.alzheimersdata.org/ad-workbench): Alzheimer's Disease Data Initiative; "a free data sharing platform, data science tools, funding opportunities, and global collaborations, ADDI is advancing scientific breakthroughs and accelerating progress towards new treatments and cures for AD and related dementias"
 
 ### Coding/ Software
 * [Dask](https://www.dask.org): parallel computing with python
@@ -45,7 +46,6 @@ Sites that allow to share neuroimaging datasets.
 * [NiMARE](https://nimare.readthedocs.io/en/latest/): a Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment)
 * [BrainIAK](https://brainiak.org): advanced fMRI analyses in Python, optimized for speed under the hood with MPI, Cython, and C++
 * Brain-age models (brain-predicted age value from a raw T1-weighted MRI scans): [BrainAge](https://github.com/MIDIconsortium/BrainAge), [brainageR](https://github.com/james-cole/brainageR)
-* [ADDI](https://www.alzheimersdata.org) + [AD Workbench](https://www.alzheimersdata.org/ad-workbench): Alzheimer's Disease Data Initiative; "a free data sharing platform, data science tools, funding opportunities, and global collaborations, ADDI is advancing scientific breakthroughs and accelerating progress towards new treatments and cures for AD and related dementias"
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
