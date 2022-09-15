@@ -113,6 +113,7 @@ Sites that allow to share neuroimaging datasets.
 ## Conferences / Symposia
 
 * [AI in aging and age-related diseases](https://www.elsevier.com/events/conferences/artificial-intelligence-neurology-aging/submit-abstract): 11-13 November 2022, on-line and on-demand; deadline: 3 October 2022
+* [NEURONUS Neuroscience Forum](https://neuronusforum.pl): organized yearly in Kraków, Poland (2022: 15-17.10.2022)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
