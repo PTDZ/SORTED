@@ -31,6 +31,8 @@ Sites that allow to share neuroimaging datasets.
 * [Sample Consent Forms for neuroimaging research](https://open-brain-consent.readthedocs.io/en/stable/) (EN/DE) | [The Open Brain Consent](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25351): an international initiative that aims to provide researchers in the brain imaging community with information about data sharing options and tools
 * [DataLad](https://www.datalad.org): a free and open source distributed data management system
 * [ADDI](https://www.alzheimersdata.org) + [AD Workbench](https://www.alzheimersdata.org/ad-workbench): Alzheimer's Disease Data Initiative; "a free data sharing platform, data science tools, funding opportunities, and global collaborations, ADDI is advancing scientific breakthroughs and accelerating progress towards new treatments and cures for AD and related dementias"
+* [The Human Protein Atlas](https://www.proteinatlas.org): "The Human Protein Atlas is a Swedish-based program initiated in 2003 with the aim to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology."
+* [Most Wiedzy/ Bridge of Knowledge](https://mostwiedzy.pl/en): a Polish-based system with collection of publications, studies, projects and a lot of other types of resources from a number of different subject areas (open-access)
 
 ### Coding/ Software
 * [Dask](https://www.dask.org): parallel computing with python
@@ -107,6 +109,7 @@ Sites that allow to share neuroimaging datasets.
 #### On-line resources
 * [ReproNim Statistics Module](http://www.repronim.org/module-stats/): Statistical basis for neuroimaging analyses: the basics / Effect size and variation of effect sizes in brain imaging /	P-values and their issues / Statistical power in neuroimaging and statistical reproducibility / The positive Predictive Value / Cultural and psychological issues
 * [DataCamp](https://www.datacamp.com)
+* [Seeing Theory](https://seeing-theory.brown.edu/#firstPage): a simple introduction to statistics and probability through the use of interactive visualizations (Brown University)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
