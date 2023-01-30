@@ -48,6 +48,8 @@ Sites that allow to share neuroimaging datasets.
 * [NiMARE](https://nimare.readthedocs.io/en/latest/): a Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment)
 * [BrainIAK](https://brainiak.org): advanced fMRI analyses in Python, optimized for speed under the hood with MPI, Cython, and C++
 * Brain-age models (brain-predicted age value from a raw T1-weighted MRI scans): [BrainAge](https://github.com/MIDIconsortium/BrainAge), [brainageR](https://github.com/james-cole/brainageR)
+* [SPAMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301123/): A MATLAB Toolbox for Surface-Based Processing and Analysis of Magnetic Resonance Imaging
+* [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
