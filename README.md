@@ -50,6 +50,7 @@ Sites that allow to share neuroimaging datasets.
 * Brain-age models (brain-predicted age value from a raw T1-weighted MRI scans): [BrainAge](https://github.com/MIDIconsortium/BrainAge), [brainageR](https://github.com/james-cole/brainageR)
 * [SPAMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301123/): A MATLAB Toolbox for Surface-Based Processing and Analysis of Magnetic Resonance Imaging
 * [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
+* [ENIGMA toolbox](https://enigma-toolbox.readthedocs.io): Python/MATLAB based. Cortical and subcortical visualization tools, Preprocessed micro- and macroscale data, Multiscale analytical workflows, 100+ ENIGMA-derived statistical maps
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
