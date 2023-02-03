@@ -156,6 +156,7 @@ Sites that allow to share neuroimaging datasets.
 * [Open Computational Neuroscience Resources](https://github.com/asoplata/open-computational-neuroscience-resources): a publicly-editable collection of open computational neuroscience resources
 * [Open Science Resources](https://github.com/asoplata/open-science-resources): a publicly-editable collection of open science resources, including tools, datasets, meta-resources, etc.
 * [OtherLists](https://github.com/openlists/OtherLists): a list of other lists that collect & curate resources
+* [eDoktorant](https://edoktorant.pl): a website for PhD students (only PL)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
