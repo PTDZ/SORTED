@@ -137,6 +137,7 @@ Sites that allow to share neuroimaging datasets.
 * [DeepMind](https://www.deepmind.com): "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity"
 * [The Center for Brains, Minds and Machines](https://cbmm.mit.edu)
 * [NeuroDataScience - ORIGAMI lab](https://neurodatascience.github.io)
+* [Opium](http://www.opium.sh): Polish National Institute for Machine Learning
 
 #### Travel grants
 * [Travelling Fellowships, The Company of Biologists](https://www.biologists.com/travelling-fellowships/)
