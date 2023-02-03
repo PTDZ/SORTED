@@ -158,6 +158,7 @@ Sites that allow to share neuroimaging datasets.
 * [Open Science Resources](https://github.com/asoplata/open-science-resources): a publicly-editable collection of open science resources, including tools, datasets, meta-resources, etc.
 * [OtherLists](https://github.com/openlists/OtherLists): a list of other lists that collect & curate resources
 * [eDoktorant](https://edoktorant.pl): a website for PhD students (only PL)
+* [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
