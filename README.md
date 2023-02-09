@@ -53,7 +53,7 @@ Sites that allow to share neuroimaging datasets.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Data visualisation
+## Data visualisation
 
 * [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
 * [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL
