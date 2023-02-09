@@ -49,8 +49,15 @@ Sites that allow to share neuroimaging datasets.
 * [BrainIAK](https://brainiak.org): advanced fMRI analyses in Python, optimized for speed under the hood with MPI, Cython, and C++
 * Brain-age models (brain-predicted age value from a raw T1-weighted MRI scans): [BrainAge](https://github.com/MIDIconsortium/BrainAge), [brainageR](https://github.com/james-cole/brainageR)
 * [SPAMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301123/): A MATLAB Toolbox for Surface-Based Processing and Analysis of Magnetic Resonance Imaging
-* [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
 * [ENIGMA toolbox](https://enigma-toolbox.readthedocs.io): Python/MATLAB based. Cortical and subcortical visualization tools, Preprocessed micro- and macroscale data, Multiscale analytical workflows, 100+ ENIGMA-derived statistical maps
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Data visualisation
+
+* [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
+* [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL
+* [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -158,7 +165,6 @@ Sites that allow to share neuroimaging datasets.
 * [Open Science Resources](https://github.com/asoplata/open-science-resources): a publicly-editable collection of open science resources, including tools, datasets, meta-resources, etc.
 * [OtherLists](https://github.com/openlists/OtherLists): a list of other lists that collect & curate resources
 * [eDoktorant](https://edoktorant.pl): a website for PhD students (only PL)
-* [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
