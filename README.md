@@ -13,6 +13,17 @@ Sites that allow to share neuroimaging datasets.
 * [BossDB](https://bossdb.org): a volumetric database for 3D and 4D neuroscience data
 * [GigaDB](http://gigadb.org): GigaDB contains 2201 discoverable, trackable, and citable datasets that have been assigned DOIs and are available for public download and use
 * [Machine learning datasets](https://www.datasetlist.com): a list of machine learning datasets from across the web
+* [Harvard Dataverse](https://dataverse.harvard.edu):"Harvard Dataverse is a repository for research data.
+* [Dryad](https://datadryad.org): Dryad is an open data publishing platform and a community committed to the open availability and routine re-use of all research data.
+* [GIN](https://gin.g-node.org): Modern Research Data Management for Neuroscience
+* [Zenodo](https://zenodo.org): Open data publishing platform
+
+### Journals
+* [Data](https://www.mdpi.com/journal/data)
+* [Data in Brief](https://www.sciencedirect.com/journal/data-in-brief)
+* [Gigascience](https://academic.oup.com/gigascience)
+* [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
+
 
 ### Other lists
 * [openlists/ElectrophysiologyData](https://github.com/openlists/ElectrophysiologyData): EEG, MEG, ECoG/iEEG, and LFP data
