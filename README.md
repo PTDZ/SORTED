@@ -17,6 +17,9 @@ Sites that allow to share neuroimaging datasets.
 * [Dryad](https://datadryad.org): Dryad is an open data publishing platform and a community committed to the open availability and routine re-use of all research data.
 * [GIN](https://gin.g-node.org): Modern Research Data Management for Neuroscience
 * [Zenodo](https://zenodo.org): Open data publishing platform
+* [NeMO](https://nemoarchive.org): The Neuroscience Multi-omic Archive (NeMO Archive) is a data repository specifically focused on the storage and dissemination of omic data generated from the BRAIN Initiative, SCORCH consortium and related brain research projects
+* [DABI](https://dabi.loni.usc.edu/home): Data Archive BRAIN Initiative, a shared repository for invasive neurophysiology data from the NIH Brain Research Through Advancing Innovative Neurotechnologies (BRAIN) Initiative
+
 
 ### Journals
 * [Data](https://www.mdpi.com/journal/data)
