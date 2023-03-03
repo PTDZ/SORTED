@@ -32,6 +32,7 @@ Sites that allow to share neuroimaging datasets.
 * [openlists/ElectrophysiologyData](https://github.com/openlists/ElectrophysiologyData): EEG, MEG, ECoG/iEEG, and LFP data
 * [meagmohit/EEG-Datasets](https://github.com/meagmohit/EEG-Datasets): EEG
 * [Wikipedia: List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
+* [https://github.com/terryum/awesome-deep-learning-papers]: Awesome - Most Cited Deep Learning Papers
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
