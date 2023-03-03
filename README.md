@@ -1,5 +1,5 @@
 # SORTED
-SORTED: a list of interesting science ideas, tools and links (cognitive/neuro &amp; data science)
+SORTED: a curated list of interesting science ideas, tools and links (cognitive/neuro &amp; data science)
 
 <div id="top"></div>
 
