@@ -32,7 +32,7 @@ Sites that allow to share neuroimaging datasets.
 * [openlists/ElectrophysiologyData](https://github.com/openlists/ElectrophysiologyData): EEG, MEG, ECoG/iEEG, and LFP data
 * [meagmohit/EEG-Datasets](https://github.com/meagmohit/EEG-Datasets): EEG
 * [Wikipedia: List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
-* [https://github.com/terryum/awesome-deep-learning-papers]: Awesome - Most Cited Deep Learning Papers
+* [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): Awesome - Most Cited Deep Learning Papers
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -66,6 +66,12 @@ Sites that allow to share neuroimaging datasets.
 * [SPAMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301123/): A MATLAB Toolbox for Surface-Based Processing and Analysis of Magnetic Resonance Imaging
 * [ENIGMA toolbox](https://enigma-toolbox.readthedocs.io): Python/MATLAB based. Cortical and subcortical visualization tools, Preprocessed micro- and macroscale data, Multiscale analytical workflows, 100+ ENIGMA-derived statistical maps
 
+### AI: writing/ information searching
+* [Chat GPT](chat.openai.com/)
+* [ParaphrasingTool](https://paraphrasingtool.ai)
+* [Smodin](https://smodin.io/ai-content-detector): AI content detector
+* [Elicit](https://elicit.org): AI research assistant
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Data visualisation
@@ -73,12 +79,6 @@ Sites that allow to share neuroimaging datasets.
 * [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
 * [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL
 * [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art
-
-### AI: writing/ information searching
-* [Chat GPT](chat.openai.com/)
-* [ParaphrasingTool](https://paraphrasingtool.ai)
-* [Smodin](https://smodin.io/ai-content-detector): AI content detector
-* [Elicit](https://elicit.org): AI research assistant
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
