@@ -74,6 +74,12 @@ Sites that allow to share neuroimaging datasets.
 * [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL
 * [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art
 
+### AI: writing/ information searching
+* [Chat GPT](chat.openai.com/)
+* [ParaphrasingTool](https://paraphrasingtool.ai)
+* [Smodin](https://smodin.io/ai-content-detector): AI content detector
+* [Elicit](https://elicit.org): AI research assistant
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Publishing
