@@ -48,6 +48,7 @@ Sites that allow to share neuroimaging datasets.
 * [ADDI](https://www.alzheimersdata.org) + [AD Workbench](https://www.alzheimersdata.org/ad-workbench): Alzheimer's Disease Data Initiative; "a free data sharing platform, data science tools, funding opportunities, and global collaborations, ADDI is advancing scientific breakthroughs and accelerating progress towards new treatments and cures for AD and related dementias"
 * [The Human Protein Atlas](https://www.proteinatlas.org): "The Human Protein Atlas is a Swedish-based program initiated in 2003 with the aim to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology."
 * [Most Wiedzy/ Bridge of Knowledge](https://mostwiedzy.pl/en): a Polish-based system with collection of publications, studies, projects and a lot of other types of resources from a number of different subject areas (open-access)
+* [Journal Citation Reports](https://jcr.clarivate.com/jcr/home): "the world's leading journals and publisher-neutral data"
 
 ### Coding/ Software
 * [Dask](https://www.dask.org): parallel computing with python
