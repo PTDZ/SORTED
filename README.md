@@ -191,6 +191,10 @@ Sites that allow to share neuroimaging datasets.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Other
+* [reMarkable list](https://github.com/reHackable/awesome-reMarkable): a curated list of projects related to the reMarkable tablet
+* [AI tools and applications](https://favird.com/l/ai-tools-and-applications)
+
 ## If you'd like to add anything...
 
 Patrycja | mail[at]ptdz.pl
