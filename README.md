@@ -53,7 +53,8 @@ Sites that allow to share neuroimaging datasets.
 ### Coding/ Software
 * [Dask](https://www.dask.org): parallel computing with python
 * [Docker](https://www.docker.com): OS-level virtualization to deliver software in packages called containers
-
+* [Statistics in R](https://www.datanovia.com/en/lessons/anova-in-r/#check-assumptions): guidelines
+  
 ### Neuroscience
 
 * [fMRIPrep](https://fmriprep.org/en/stable/): a preprocessing pipeline for task-based and resting-state fMRI data
