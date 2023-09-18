@@ -194,7 +194,10 @@ Sites that allow to share neuroimaging datasets.
 ## Other
 * [reMarkable list](https://github.com/reHackable/awesome-reMarkable): a curated list of projects related to the reMarkable tablet
 * [AI tools and applications](https://favird.com/l/ai-tools-and-applications)
-* 
+
+#### Biohacking
+* [Biohacking Brain Health](https://www.brightfocus.org/alzheimers/article/biohacking-brain-health-research-exploring-fasting-and-diet-changes-shows-promise)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## If you'd like to add anything...
