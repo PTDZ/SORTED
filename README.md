@@ -1,12 +1,11 @@
 # SORTED
-SORTED: a curated list of interesting science ideas, tools and links (cognitive/neuro &amp; data science)
+SORTED: a curated list of interesting (neuro)science ideas, tools and links (cognitive/neuro &amp; data science)
 
 <div id="top"></div>
 
 ## Open data movement
-Sites that allow to share neuroimaging datasets.
 
-### Platforms
+### Data repositories (suitable for neuroimaging datasets)
 * [OpenNeuro](https://openneuro.org): BIDS-compliant MRI, PET, MEG, EEG, and iEEG data 
 * [OpenNeuro PET](https://openneuropet.github.io): BIDS-compliant PET data
 * [NeuroVault](https://neurovault.org): unthresholded statistical maps, parcellations, and atlases produced by MRI and PET studies
@@ -51,9 +50,9 @@ Sites that allow to share neuroimaging datasets.
 * [Journal Citation Reports](https://jcr.clarivate.com/jcr/home): "the world's leading journals and publisher-neutral data"
 
 ### Coding/ Software
-* [Dask](https://www.dask.org): parallel computing with python
+* [Dask](https://www.dask.org): parallel computing with Python
 * [Docker](https://www.docker.com): OS-level virtualization to deliver software in packages called containers
-* [Statistics in R](https://www.datanovia.com/en/lessons/anova-in-r/#check-assumptions): guidelines
+* [Statistics in R](https://www.datanovia.com/en/lessons/anova-in-r): guidelines for ANOVA in R
   
 ### Neuroscience
 
