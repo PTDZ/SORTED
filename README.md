@@ -1,44 +1,43 @@
 # SORTED
-SORTED: a curated list of interesting (neuro)science ideas, tools and links (cognitive/neuro &amp; data science)
+SORTED: SORTED: A curated collection of interesting ideas, tools, and resources in neuroscience, data management, and data science, all in the spirit of Open Science. Additionally, it includes interesting miscellaneous links related to AI, biohacking, and productivity.
 
 <div id="top"></div>
 
-## Open data movement
+## Open Data Science
 
-### Data repositories (suitable for neuroimaging datasets)
-* [OpenNeuro](https://openneuro.org): BIDS-compliant MRI, PET, MEG, EEG, and iEEG data 
-* [OpenNeuro PET](https://openneuropet.github.io): BIDS-compliant PET data
-* [NeuroVault](https://neurovault.org): unthresholded statistical maps, parcellations, and atlases produced by MRI and PET studies
-* [BossDB](https://bossdb.org): a volumetric database for 3D and 4D neuroscience data
-* [GigaDB](http://gigadb.org): GigaDB contains 2201 discoverable, trackable, and citable datasets that have been assigned DOIs and are available for public download and use
-* [Machine learning datasets](https://www.datasetlist.com): a list of machine learning datasets from across the web
-* [Harvard Dataverse](https://dataverse.harvard.edu):"Harvard Dataverse is a repository for research data.
-* [Dryad](https://datadryad.org): Dryad is an open data publishing platform and a community committed to the open availability and routine re-use of all research data.
-* [GIN](https://gin.g-node.org): Modern Research Data Management for Neuroscience
-* [Zenodo](https://zenodo.org): Open data publishing platform
-* [NeMO](https://nemoarchive.org): The Neuroscience Multi-omic Archive (NeMO Archive) is a data repository specifically focused on the storage and dissemination of omic data generated from the BRAIN Initiative, SCORCH consortium and related brain research projects
-* [DABI](https://dabi.loni.usc.edu/home): Data Archive BRAIN Initiative, a shared repository for invasive neurophysiology data from the NIH Brain Research Through Advancing Innovative Neurotechnologies (BRAIN) Initiative
+### Data Repositories (suitable for neuroimaging datasets)
+* [OpenNeuro](https://openneuro.org): A platform for sharing BIDS-compliant MRI, PET, MEG, and EEG data.
+* [OpenNeuro PET](https://openneuropet.github.io): A specialized repository for BIDS-compliant PET data.
+* [NeuroVault](https://neurovault.org): A repository for unthresholded statistical maps, parcellations, and atlases from MRI and PET studies.
+* [BossDB](https://bossdb.org): A volumetric database for 3D and 4D neuroscience data.
+* [GigaDB](http://gigadb.org): Hosts over 2201 discoverable, trackable, and citable datasets with DOIs for public download and use.
+* [Harvard Dataverse](https://dataverse.harvard.edu): A repository for research data across all disciplines.
+* [Dryad](https://datadryad.org): An open data publishing platform for a wide range of research data.
+* [GIN](https://gin.g-node.org): A modern research data management platform for neuroscience.
+* [Zenodo](https://zenodo.org): A general-purpose open data repository.
+* [NeMO](https://nemoarchive.org): A data repository focused on multi-omic data from brain research projects.
+* [DABI](https://dabi.loni.usc.edu/home): A shared repository for invasive neurophysiology data from the NIH BRAIN Initiative.
 
-
-### Journals
-* [Data](https://www.mdpi.com/journal/data)
+### Journals (for Data Notes)
 * [Data in Brief](https://www.sciencedirect.com/journal/data-in-brief)
 * [Gigascience](https://academic.oup.com/gigascience)
+* [Scientific Data](https://www.nature.com/sdata/)
 * [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
+* [Journal of Open Research Software](http://openresearchsoftware.metajnl.com)
 
-
-### Other lists
-* [openlists/ElectrophysiologyData](https://github.com/openlists/ElectrophysiologyData): EEG, MEG, ECoG/iEEG, and LFP data
-* [meagmohit/EEG-Datasets](https://github.com/meagmohit/EEG-Datasets): EEG
-* [Wikipedia: List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
-* [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers): Awesome - Most Cited Deep Learning Papers
-
+## Additional Resources:
+* [Open Science Framework](https://osf.io): A platform for sharing and collaborating on scientific research.
+* [Machine Learning Datasets](https://www.datasetlist.com): A comprehensive list of machine learning datasets from various sources.
+* [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience): A curated list of neuroscience libraries, software, and resources.
+* [Open Computational Neuroscience Resources](https://github.com/asoplata/open-computational-neuroscience-resources): A collection of open computational neuroscience resources.
+* [Open Science Resources](https://github.com/asoplata/open-science-resources): A collection of open science tools, datasets, and meta-resources.
+* [OtherLists](https://github.com/openlists/OtherLists): A list of other lists that collect and curate resources.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Tools
+## Miscellaneous for Researchers
 
-### General: research
+### General tools
 
 * [BIDS](https://bids.neuroimaging.io): Brain Imaging Data Structure; simple and intuitive way to organize and describe neuroimaging and behavioral data
 * [Protocols.io](https://www.protocols.io): science methods, assays, clinical trials, operational procedures and checklists for keeping your protocols up do date as recommended by Good Laboratory Practice (GLP) and Good Manufacturing Practice (GMP)
@@ -53,9 +52,8 @@ SORTED: a curated list of interesting (neuro)science ideas, tools and links (cog
 * [Dask](https://www.dask.org): parallel computing with Python
 * [Docker](https://www.docker.com): OS-level virtualization to deliver software in packages called containers
 * [Statistics in R](https://www.datanovia.com/en/lessons/anova-in-r): guidelines for ANOVA in R
-  
-### Neuroscience
 
+### Neuroscience
 * [fMRIPrep](https://fmriprep.org/en/stable/): a preprocessing pipeline for task-based and resting-state fMRI data
 * [Neurosynth](https://neurosynth.org): a platform for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data
 * [BrainMap](https://brainmap.org): a database of published functional and structural neuroimaging experiments with coordinate-based results (x,y,z) in Talairach or MNI space
@@ -67,23 +65,36 @@ SORTED: a curated list of interesting (neuro)science ideas, tools and links (cog
 * [SPAMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301123/): A MATLAB Toolbox for Surface-Based Processing and Analysis of Magnetic Resonance Imaging
 * [ENIGMA toolbox](https://enigma-toolbox.readthedocs.io): Python/MATLAB based. Cortical and subcortical visualization tools, Preprocessed micro- and macroscale data, Multiscale analytical workflows, 100+ ENIGMA-derived statistical maps
 
-### AI: writing/ information searching
-* [Chat GPT](chat.openai.com/)
-* [ParaphrasingTool](https://paraphrasingtool.ai)
-* [Smodin](https://smodin.io/ai-content-detector): AI content detector
-* [Elicit](https://elicit.org): AI research assistant
+### Fellowships & Grants
+* [Marie Skłodowska-Curie Actions](https://ec.europa.eu/research/mariecurieactions/)**: Fellowships for researchers.
+* [EMBO Fellowships](https://www.embo.org/funding/fellowships/)**: Fellowships for postdoctoral researchers in the life sciences.
+* [HFSP Fellowships](http://www.hfsp.org/funding/postdoctoral-fellowships)**: Fellowships for interdisciplinary research in the life sciences.
+* [Traveling Fellowships, The Company of Biologists](https://www.biologists.com/travelling-fellowships/)**: Funding for travel to undertake collaborative research.
+* [NIH Grants](https://grants.nih.gov/)**: Information on grants provided by the National Institutes of Health.
+* [European Research Council Grants](https://erc.europa.eu/funding)**: Funding opportunities from the ERC.
+* [ReproNim/INCF Training Fellowship](https://www.repronim.org/fellowship.html)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### Learning
+* [Neuroscience Tutorials](https://raphaelvallat.com/index.html#six)**: Tutorials on various neuroscience topics.
+* [NeuroStars](https://neurostars.org)**: A forum for discussing neuroscience research and tools.
+* [ReproNim Statistics Module](http://www.repronim.org/module-stats/): Statistical basis for neuroimaging analyses: the basics / Effect size and variation of effect sizes in brain imaging /	P-values and their issues / Statistical power in neuroimaging and statistical reproducibility / The positive Predictive Value / Cultural and psychological issues
+* [DataCamp](https://www.datacamp.com)
+* [Seeing Theory](https://seeing-theory.brown.edu/#firstPage): a simple introduction to statistics and probability through the use of interactive visualizations (Brown University)
 
-## Data visualisation
+### Summer Schools
+* [Neuromatch Academy](https://academy.neuromatch.io)**: An online summer school for computational neuroscience.
+* [Google Summer of Code](https://summerofcode.withgoogle.com): a global, online program focused on bringing new contributors into open source software development
+* [Neurohackademy](https://neurohackademy.org): a summer school in neuroiming & data science, held at the University of Washington eScience Institute
 
-* [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
-* [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL
-* [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art
+## Initiatives, research groups, associations, labs, companies
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Publishing
+* [ENIGMA](https://enigma.ini.usc.edu): The ENIGMA Consortium brings together researchers in imaging genomics to understand brain structure, function, and disease, based on brain imaging and genetic data 
+* [The EuroLaD-EEG consortium](https://brainlat.uai.cl/research-and-networking-projects/seed-grants/the-eurolad-eeg-consortium-towards-a-global-eeg-platform-for-dementia/): towards a global EEG platform for dementia (*more information is not yet available)
+* [BrainArt SIG](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3911): "The scope of the Brain–Art SIG is to promote the exchange between Art & Science by fostering the dialogue between artists and members of the OHBM community." | [Paper](https://psyarxiv.com/uywc5/)
+* [DeepMind](https://www.deepmind.com): "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity"
+* [The Center for Brains, Minds and Machines](https://cbmm.mit.edu)
+* [NeuroDataScience - ORIGAMI lab](https://neurodatascience.github.io)
+* [Opium](http://www.opium.sh): Polish National Institute for Machine Learning
 
 ### Predatory journals/publishers etc.
 * [Think-Check-Submit](https://thinkchecksubmit.org): this international, cross-sector initiative aims to educate researchers, promote integrity, and build trust in credible research and publications
@@ -91,22 +102,44 @@ SORTED: a curated list of interesting (neuro)science ideas, tools and links (cog
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Data Visualisation
+
+* [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
+* [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL
+* [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## AI tools
+* [AI Tools and Applications](https://favird.com/l/ai-tools-and-applications)**: A curated list of AI tools and their applications.
+* [Elicit](https://elicit.org): AI research assistant.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Productivity
+* [reMarkable List](https://github.com/reHackable/awesome-reMarkable)**: A list of projects related to the reMarkable tablet.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Biohacking
+* [Biohacking Brain Health](https://www.brightfocus.org/alzheimers/article/biohacking-brain-health-research-exploring-fasting-and-diet-changes-shows-promise)**: Research on the effects of fasting and diet changes on brain health.
+* [Bulletproof Blog](https://www.bulletproof.com/blog/)**: Articles on biohacking and wellness.
+* [SelfHacked](https://selfhacked.com)**: Research-based information on health, biohacking, and self-improvement.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Reading corner
 
-### Books
+### Design
+* [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) (Donald Norman): how users use objects, and how to optimize and standardize things and make them more intuitive and user-friendly.
 
-#### Design/ Thinking
-* [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) (Donald Norman): how users use objects, and how to optimize and standardize things and make them more intuitive and user-friendly
+### Programming
+* [The Art of Readable Code](https://www.goodreads.com/book/show/8677004-the-art-of-readable-code) (Dustin Boswell & Trevor Foucher): a basic principles and practical techniques that one can apply to write a better code.
 
-#### Programming
-* [The Art of Readable Code](https://www.goodreads.com/book/show/8677004-the-art-of-readable-code) (Dustin Boswell & Trevor Foucher): a basic principles and practical techniques that one can apply to write a better code
-
-#### Relaxing on a hammock under a tree...
+### Relaxing on a hammock under a tree...
 * [What If? Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions) (Randall Munroe)
 
-### Articles
-
-#### Unreliable Science (*and how to try overcome this issue)
+### Unreliable Science (*and how to try overcome this issue)
 
 * *Why Most Published Research Findings Are False* (PLOS/ John Ioannidis) | [Paper](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) / [Wiki](https://en.wikipedia.org/wiki/Why_Most_Published_Research_Findings_Are_False): an essay written by John Ioannidis (Stanford School of Medicine); author argues that a large number of papers in medical research contain results that in fact cannot be replicated and are a false positive results
 * *How scientists fool themselves – and how they can stop* (Nature/ Regina Nuzzo) | [Article](https://www.nature.com/articles/526182a) / [PDF](https://www.nature.com/articles/526182a.pdf): cognitive fallacies in research and debiasing techniques
@@ -121,89 +154,14 @@ SORTED: a curated list of interesting (neuro)science ideas, tools and links (cog
 * *Is there a large sample size problem?* (Richard A. Armstrong) | [Paper](https://onlinelibrary.wiley.com/doi/10.1111/opo.12618) & *The paradox of large samples* (S. Kunte & A. P. Gore) [Paper](https://www.jstor.org/stable/24093874): statistical issues with large sample sizes
 * *Do we really measure what we think we are measuring?* (Dario Gordillo et al.) | [Paper](https://www.cell.com/iscience/fulltext/S2589-0042(23)00094-9)
 
-#### Other articles
+### Other articles
 * *A hitchhiker’s guide to working with large, open-source neuroimaging datasets* (Corey Horien et al.) | [Paper](https://www.nature.com/articles/s41562-020-01005-4): "Here we offer practical tips for working with large datasets from the end-user’s perspective. We cover all aspects of the data lifecycle: from what to consider when downloading and storing the data to tips on how to become acquainted with a dataset one did not collect and what to share when communicating results"
 
-### Other
-
-* [Karty Data Science](https://kartydatascience.pl): [PL only]
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Summer Schools / Courses / Hackathons etc.
+## Contributions
 
-* [Neurohackademy](https://neurohackademy.org): a summer school in neuroiming & data science, held at the University of Washington eScience Institute
-* [Neuromatch](https://neuromatch.io): Neuromatch Academy (computational techniques crucial both in academia and industry (3-week program)) & Neuromatch Conference (a conference for the computational neuroscience community)
-* [Google Summer of Code](https://summerofcode.withgoogle.com): a global, online program focused on bringing new contributors into open source software development
+> [!NOTE]  
+> If you'd like to add anything, please feel free to edit this document and create a pull request.
 
-#### Other lists
-* [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools): list of summer schools in neuroscience and related fields
-
-#### On-line resources
-* [ReproNim Statistics Module](http://www.repronim.org/module-stats/): Statistical basis for neuroimaging analyses: the basics / Effect size and variation of effect sizes in brain imaging /	P-values and their issues / Statistical power in neuroimaging and statistical reproducibility / The positive Predictive Value / Cultural and psychological issues
-* [DataCamp](https://www.datacamp.com)
-* [Seeing Theory](https://seeing-theory.brown.edu/#firstPage): a simple introduction to statistics and probability through the use of interactive visualizations (Brown University)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Conferences / Symposia
-
-* [AI in aging and age-related diseases](https://www.elsevier.com/events/conferences/artificial-intelligence-neurology-aging/submit-abstract): 11-13 November 2022, on-line and on-demand; deadline: 3 October 2022
-* [NEURONUS Neuroscience Forum](https://neuronusforum.pl): organized yearly in Kraków, Poland (2022: 15-17.10.2022)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Initiatives, research groups, associations...
-
-* [ENIGMA](https://enigma.ini.usc.edu): The ENIGMA Consortium brings together researchers in imaging genomics to understand brain structure, function, and disease, based on brain imaging and genetic data 
-* [The EuroLaD-EEG consortium](https://brainlat.uai.cl/research-and-networking-projects/seed-grants/the-eurolad-eeg-consortium-towards-a-global-eeg-platform-for-dementia/): towards a global EEG platform for dementia (*more information is not yet available)
-* [BrainArt SIG](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3911): "The scope of the Brain–Art SIG is to promote the exchange between Art & Science by fostering the dialogue between artists and members of the OHBM community." | [Paper](https://psyarxiv.com/uywc5/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Interesting companies & labs, internships, job advertisements, grants & travel grants
-
-#### Companies & labs
-* [DeepMind](https://www.deepmind.com): "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity"
-* [The Center for Brains, Minds and Machines](https://cbmm.mit.edu)
-* [NeuroDataScience - ORIGAMI lab](https://neurodatascience.github.io)
-* [Opium](http://www.opium.sh): Polish National Institute for Machine Learning
-
-#### Travel grants
-* [Travelling Fellowships, The Company of Biologists](https://www.biologists.com/travelling-fellowships/)
-* [Bekker NAWA](https://nawa.gov.pl/naukowcy/program-imienia-bekkera): [only PL]
-* [ReproNim/INCF Training Fellowship](https://www.repronim.org/fellowship.html)
-
-#### Grants
-* [Lider](https://www.gov.pl/web/ncbr/lider): [only PL], deadline: March 2023
-* [OPUS NCN](https://www.ncn.gov.pl/): [only PL], deadline: December 2022
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Miscellaneous
-* [Neuroscience related tutorials](https://raphaelvallat.com/index.html#six)
-* [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience): "A curated list of awesome neuroscience libraries, software and any content related to the domain." (*more general/cell-level oriented list)
-* [Open Computational Neuroscience Resources](https://github.com/asoplata/open-computational-neuroscience-resources): a publicly-editable collection of open computational neuroscience resources
-* [Open Science Resources](https://github.com/asoplata/open-science-resources): a publicly-editable collection of open science resources, including tools, datasets, meta-resources, etc.
-* [OtherLists](https://github.com/openlists/OtherLists): a list of other lists that collect & curate resources
-* [eDoktorant](https://edoktorant.pl): a website for PhD students (only PL)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Other
-* [reMarkable list](https://github.com/reHackable/awesome-reMarkable): a curated list of projects related to the reMarkable tablet
-* [AI tools and applications](https://favird.com/l/ai-tools-and-applications)
-
-#### Biohacking
-* [Biohacking Brain Health](https://www.brightfocus.org/alzheimers/article/biohacking-brain-health-research-exploring-fasting-and-diet-changes-shows-promise)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## If you'd like to add anything...
-
-Patrycja | mail[at]ptdz.pl
-
-https://github.com/PTDZ/SORTED
-
-Feel free to edit and create a pull request!
+[GitHub Repository](https://github.com/PTDZ/SORTED)
