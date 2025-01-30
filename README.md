@@ -114,6 +114,10 @@ SORTED: A curated collection of interesting ideas, tools, and resources in neuro
 * [Elicit](https://elicit.org): AI research assistant.
 * [Litmaps](https://www.litmaps.com/): research tool that helps visualize citation networks, allowing users to track academic papers, discover related research, and map the evolution of ideas.
 * [Perplexity](https://www.perplexity.ai): research tool and search engine that helps users find reliable, up-to-date information by combining LLMs with real-time web access.
+* [Scholarcy](https://www.scholarcy.com): summarize any paper, article or textbook (more efficient literature review).
+* [Explainpaper](https://www.explainpaper.com): upload and interact with complex academic papers by highlighting difficult sections and receiving simplified AI-generated explanations, improving comprehension.
+* [Connected Papers](https://www.connectedpapers.com): generates a graph of related research papers based on citation networks.
+* [Research Rabbit](https://www.researchrabbit.ai): literature discovery platform that enables to build collections of papers & visualize networks of related research.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
