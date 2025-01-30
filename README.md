@@ -111,7 +111,6 @@ SORTED: A curated collection of interesting ideas, tools, and resources in neuro
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## AI tools
-* [AI Tools and Applications](https://favird.com/l/ai-tools-and-applications)**: A curated list of AI tools and their applications.
 * [Elicit](https://elicit.org): AI research assistant.
 * [Litmaps](https://www.litmaps.com/): research tool that helps visualize citation networks, allowing users to track academic papers, discover related research, and map the evolution of ideas.
 
