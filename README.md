@@ -98,7 +98,7 @@ SORTED: A curated collection of interesting ideas, tools, and resources in neuro
 
 ### Predatory journals/publishers etc.
 * [Think-Check-Submit](https://thinkchecksubmit.org): this international, cross-sector initiative aims to educate researchers, promote integrity, and build trust in credible research and publications
-* [Beall's List: expanded 2022](https://www.immunofrontiers.com/list-of-predatory-journals-and-trusted-resources-2022): a list of predatory journals & trusted resources
+* [Beall's List](https://beallslist.net): a list of predatory journals & trusted resources
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
