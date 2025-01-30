@@ -110,9 +110,10 @@ SORTED: A curated collection of interesting ideas, tools, and resources in neuro
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## AI tools
+## AI tools for researchers
 * [Elicit](https://elicit.org): AI research assistant.
 * [Litmaps](https://www.litmaps.com/): research tool that helps visualize citation networks, allowing users to track academic papers, discover related research, and map the evolution of ideas.
+* [Perplexity](https://www.perplexity.ai): research tool and search engine that helps users find reliable, up-to-date information by combining LLMs with real-time web access.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
