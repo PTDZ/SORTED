@@ -113,18 +113,12 @@ SORTED: A curated collection of interesting ideas, tools, and resources in neuro
 ## AI tools
 * [AI Tools and Applications](https://favird.com/l/ai-tools-and-applications)**: A curated list of AI tools and their applications.
 * [Elicit](https://elicit.org): AI research assistant.
+* [Litmaps](https://www.litmaps.com/): research tool that helps visualize citation networks, allowing users to track academic papers, discover related research, and map the evolution of ideas.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Productivity
 * [reMarkable List](https://github.com/reHackable/awesome-reMarkable)**: A list of projects related to the reMarkable tablet.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Biohacking
-* [Biohacking Brain Health](https://www.brightfocus.org/alzheimers/article/biohacking-brain-health-research-exploring-fasting-and-diet-changes-shows-promise)**: Research on the effects of fasting and diet changes on brain health.
-* [Bulletproof Blog](https://www.bulletproof.com/blog/)**: Articles on biohacking and wellness.
-* [SelfHacked](https://selfhacked.com)**: Research-based information on health, biohacking, and self-improvement.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
