@@ -152,8 +152,10 @@ SORTED: A curated collection of interesting ideas, tools, and resources in neuro
 * *Is there a large sample size problem?* (Richard A. Armstrong) | [Paper](https://onlinelibrary.wiley.com/doi/10.1111/opo.12618) & *The paradox of large samples* (S. Kunte & A. P. Gore) [Paper](https://www.jstor.org/stable/24093874): statistical issues with large sample sizes
 * *Do we really measure what we think we are measuring?* (Dario Gordillo et al.) | [Paper](https://www.cell.com/iscience/fulltext/S2589-0042(23)00094-9)
 
-### Other articles
+### Other
 * *A hitchhiker’s guide to working with large, open-source neuroimaging datasets* (Corey Horien et al.) | [Paper](https://www.nature.com/articles/s41562-020-01005-4): "Here we offer practical tips for working with large datasets from the end-user’s perspective. We cover all aspects of the data lifecycle: from what to consider when downloading and storing the data to tips on how to become acquainted with a dataset one did not collect and what to share when communicating results"
+* *International Neuroanatomical Terminology: Latin/Polish/English* (Zakład Anatomii Prawidłowej i Klinicznej WUM; CC BY-ND 4.0) | [PDF](_additional_files/FIPAT_International_Neuroanatomical_Terminology_Latin_PL_EN_2019.pdf)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
