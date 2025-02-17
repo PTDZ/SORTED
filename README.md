@@ -39,90 +39,90 @@ SORTED: A curated collection of interesting ideas, tools, and resources in neuro
 
 ### General tools
 
-* [BIDS](https://bids.neuroimaging.io): Brain Imaging Data Structure; simple and intuitive way to organize and describe neuroimaging and behavioral data
-* [Protocols.io](https://www.protocols.io): science methods, assays, clinical trials, operational procedures and checklists for keeping your protocols up do date as recommended by Good Laboratory Practice (GLP) and Good Manufacturing Practice (GMP)
-* [Sample Consent Forms for neuroimaging research](https://open-brain-consent.readthedocs.io/en/stable/) (EN/DE) | [The Open Brain Consent](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25351): an international initiative that aims to provide researchers in the brain imaging community with information about data sharing options and tools
-* [DataLad](https://www.datalad.org): a free and open source distributed data management system
-* [ADDI](https://www.alzheimersdata.org) + [AD Workbench](https://www.alzheimersdata.org/ad-workbench): Alzheimer's Disease Data Initiative; "a free data sharing platform, data science tools, funding opportunities, and global collaborations, ADDI is advancing scientific breakthroughs and accelerating progress towards new treatments and cures for AD and related dementias"
-* [The Human Protein Atlas](https://www.proteinatlas.org): "The Human Protein Atlas is a Swedish-based program initiated in 2003 with the aim to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology."
-* [Most Wiedzy/ Bridge of Knowledge](https://mostwiedzy.pl/en): a Polish-based system with collection of publications, studies, projects and a lot of other types of resources from a number of different subject areas (open-access)
-* [Journal Citation Reports](https://jcr.clarivate.com/jcr/home): "the world's leading journals and publisher-neutral data"
+* [BIDS](https://bids.neuroimaging.io): Brain Imaging Data Structure; simple and intuitive way to organize and describe neuroimaging and behavioral data.
+* [Protocols.io](https://www.protocols.io): Science methods, assays, clinical trials, operational procedures and checklists for keeping your protocols up do date as recommended by Good Laboratory Practice (GLP) and Good Manufacturing Practice (GMP).
+* [Sample Consent Forms for neuroimaging research](https://open-brain-consent.readthedocs.io/en/stable/) (EN/DE) | [The Open Brain Consent](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25351): An international initiative that aims to provide researchers in the brain imaging community with information about data sharing options and tools.
+* [DataLad](https://www.datalad.org): A free and open source distributed data management system.
+* [ADDI](https://www.alzheimersdata.org) + [AD Workbench](https://www.alzheimersdata.org/ad-workbench): Alzheimer's Disease Data Initiative; "a free data sharing platform, data science tools, funding opportunities, and global collaborations, ADDI is advancing scientific breakthroughs and accelerating progress towards new treatments and cures for AD and related dementias".
+* [The Human Protein Atlas](https://www.proteinatlas.org): "The Human Protein Atlas is a Swedish-based program initiated in 2003 with the aim to map all the human proteins in cells, tissues, and organs using an integration of various omics technologies, including antibody-based imaging, mass spectrometry-based proteomics, transcriptomics, and systems biology".
+* [Most Wiedzy/ Bridge of Knowledge](https://mostwiedzy.pl/en): A Polish-based system with collection of publications, studies, projects and a lot of other types of resources from a number of different subject areas (open-access).
+* [Journal Citation Reports](https://jcr.clarivate.com/jcr/home): "The world's leading journals and publisher-neutral data".
 
 ### Coding/ Software
-* [Dask](https://www.dask.org): parallel computing with Python
-* [Docker](https://www.docker.com): OS-level virtualization to deliver software in packages called containers
-* [Statistics in R](https://www.datanovia.com/en/lessons/anova-in-r): guidelines for ANOVA in R
+* [Dask](https://www.dask.org): Parallel computing with Python.
+* [Docker](https://www.docker.com): OS-level virtualization to deliver software in packages called containers.
+* [Statistics in R](https://www.datanovia.com/en/lessons/anova-in-r): Guidelines for ANOVA in R.
 
 ### Neuroscience
-* [fMRIPrep](https://fmriprep.org/en/stable/): a preprocessing pipeline for task-based and resting-state fMRI data
-* [Neurosynth](https://neurosynth.org): a platform for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data
-* [BrainMap](https://brainmap.org): a database of published functional and structural neuroimaging experiments with coordinate-based results (x,y,z) in Talairach or MNI space
-* [NEMAR](https://nemar.org): an open access data, tools, and compute resource for assessing and processing human NeuroElectroMagnetic data shared by its authors thru OpenNeuro
-* [ReproNim](https://www.repronim.org/index.html): ReproNim delivers a reproducible analysis framework
-* [NiMARE](https://nimare.readthedocs.io/en/latest/): a Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment)
-* [BrainIAK](https://brainiak.org): advanced fMRI analyses in Python, optimized for speed under the hood with MPI, Cython, and C++
-* Brain-age models (brain-predicted age value from a raw T1-weighted MRI scans): [BrainAge](https://github.com/MIDIconsortium/BrainAge), [brainageR](https://github.com/james-cole/brainageR)
-* [SPAMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301123/): A MATLAB Toolbox for Surface-Based Processing and Analysis of Magnetic Resonance Imaging
-* [ENIGMA toolbox](https://enigma-toolbox.readthedocs.io): Python/MATLAB based. Cortical and subcortical visualization tools, Preprocessed micro- and macroscale data, Multiscale analytical workflows, 100+ ENIGMA-derived statistical maps
+* [fMRIPrep](https://fmriprep.org/en/stable/): A preprocessing pipeline for task-based and resting-state fMRI data.
+* [Neurosynth](https://neurosynth.org): A platform for large-scale, automated synthesis of functional magnetic resonance imaging (fMRI) data.
+* [BrainMap](https://brainmap.org): A database of published functional and structural neuroimaging experiments with coordinate-based results (x,y,z) in Talairach or MNI space.
+* [NEMAR](https://nemar.org): An open access data, tools, and compute resource for assessing and processing human NeuroElectroMagnetic data shared by its authors thru OpenNeuro.
+* [ReproNim](https://www.repronim.org/index.html): ReproNim delivers a reproducible analysis framework.
+* [NiMARE](https://nimare.readthedocs.io/en/latest/): A Python package for neuroimaging meta-analyses (Neuroimaging Meta-Analysis Research Environment).
+* [BrainIAK](https://brainiak.org): Advanced fMRI analyses in Python, optimized for speed under the hood with MPI, Cython, and C++.
+* [BrainAge](https://github.com/MIDIconsortium/BrainAge), [brainageR](https://github.com/james-cole/brainageR): Brain-age models (brain-predicted age value from a raw T1-weighted MRI scans).
+* [SPAMRI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301123/): A MATLAB Toolbox for Surface-Based Processing and Analysis of Magnetic Resonance Imaging.
+* [ENIGMA toolbox](https://enigma-toolbox.readthedocs.io): Python/MATLAB based. Cortical and subcortical visualization tools, Preprocessed micro- and macroscale data, Multiscale analytical workflows, 100+ ENIGMA-derived statistical maps.
 
 ### Fellowships & Grants
-* [Marie Skłodowska-Curie Actions](https://ec.europa.eu/research/mariecurieactions/)**: Fellowships for researchers.
-* [EMBO Fellowships](https://www.embo.org/funding/fellowships/)**: Fellowships for postdoctoral researchers in the life sciences.
-* [HFSP Fellowships](http://www.hfsp.org/funding/postdoctoral-fellowships)**: Fellowships for interdisciplinary research in the life sciences.
-* [Traveling Fellowships, The Company of Biologists](https://www.biologists.com/travelling-fellowships/)**: Funding for travel to undertake collaborative research.
-* [NIH Grants](https://grants.nih.gov/)**: Information on grants provided by the National Institutes of Health.
-* [European Research Council Grants](https://erc.europa.eu/funding)**: Funding opportunities from the ERC.
+* [Marie Skłodowska-Curie Actions](https://ec.europa.eu/research/mariecurieactions/): Fellowships for researchers.
+* [EMBO Fellowships](https://www.embo.org/funding/fellowships/): Fellowships for postdoctoral researchers in the life sciences.
+* [HFSP Fellowships](http://www.hfsp.org/funding/postdoctoral-fellowships): Fellowships for interdisciplinary research in the life sciences.
+* [Traveling Fellowships, The Company of Biologists](https://www.biologists.com/travelling-fellowships/): Funding for travel to undertake collaborative research.
+* [NIH Grants](https://grants.nih.gov/): Information on grants provided by the National Institutes of Health.
+* [European Research Council Grants](https://erc.europa.eu/funding): Funding opportunities from the ERC.
 * [ReproNim/INCF Training Fellowship](https://www.repronim.org/fellowship.html)
 
 ### Learning
-* [Neuroscience Tutorials](https://raphaelvallat.com/index.html#six)**: Tutorials on various neuroscience topics.
-* [NeuroStars](https://neurostars.org)**: A forum for discussing neuroscience research and tools.
+* [Neuroscience Tutorials](https://raphaelvallat.com/index.html#six): Tutorials on various neuroscience topics.
+* [NeuroStars](https://neurostars.org): A forum for discussing neuroscience research and tools.
 * [ReproNim Statistics Module](http://www.repronim.org/module-stats/): Statistical basis for neuroimaging analyses: the basics / Effect size and variation of effect sizes in brain imaging /	P-values and their issues / Statistical power in neuroimaging and statistical reproducibility / The positive Predictive Value / Cultural and psychological issues
 * [DataCamp](https://www.datacamp.com)
-* [Seeing Theory](https://seeing-theory.brown.edu/#firstPage): a simple introduction to statistics and probability through the use of interactive visualizations (Brown University)
+* [Seeing Theory](https://seeing-theory.brown.edu/#firstPage): A simple introduction to statistics and probability through the use of interactive visualizations (Brown University).
 
 ### Summer Schools
-* [Neuromatch Academy](https://academy.neuromatch.io)**: An online summer school for computational neuroscience.
-* [Google Summer of Code](https://summerofcode.withgoogle.com): a global, online program focused on bringing new contributors into open source software development
-* [Neurohackademy](https://neurohackademy.org): a summer school in neuroiming & data science, held at the University of Washington eScience Institute
+* [Neuromatch Academy](https://academy.neuromatch.io): An online summer school for computational neuroscience.
+* [Google Summer of Code](https://summerofcode.withgoogle.com): A global, online program focused on bringing new contributors into open source software development.
+* [Neurohackademy](https://neurohackademy.org): A summer school in neuroiming & data science, held at the University of Washington eScience Institute.
 
 ## Initiatives, research groups, associations, labs, companies
 
-* [ENIGMA](https://enigma.ini.usc.edu): The ENIGMA Consortium brings together researchers in imaging genomics to understand brain structure, function, and disease, based on brain imaging and genetic data 
-* [The EuroLaD-EEG consortium](https://brainlat.uai.cl/research-and-networking-projects/seed-grants/the-eurolad-eeg-consortium-towards-a-global-eeg-platform-for-dementia/): towards a global EEG platform for dementia (*more information is not yet available)
+* [ENIGMA](https://enigma.ini.usc.edu): The ENIGMA Consortium brings together researchers in imaging genomics to understand brain structure, function, and disease, based on brain imaging and genetic data.
+* [The EuroLaD-EEG consortium](https://brainlat.uai.cl/research-and-networking-projects/seed-grants/the-eurolad-eeg-consortium-towards-a-global-eeg-platform-for-dementia/): towards a global EEG platform for dementia (*more information is not yet available).
 * [BrainArt SIG](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3911): "The scope of the Brain–Art SIG is to promote the exchange between Art & Science by fostering the dialogue between artists and members of the OHBM community." | [Paper](https://psyarxiv.com/uywc5/)
-* [DeepMind](https://www.deepmind.com): "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity"
+* [DeepMind](https://www.deepmind.com): "We’re a team of scientists, engineers, ethicists and more, committed to solving intelligence, to advance science and benefit humanity".
 * [The Center for Brains, Minds and Machines](https://cbmm.mit.edu)
 * [NeuroDataScience - ORIGAMI lab](https://neurodatascience.github.io)
-* [Opium](http://www.opium.sh): Polish National Institute for Machine Learning
+* [Opium](http://www.opium.sh): Polish National Institute for Machine Learning.
 
 ### Predatory journals/publishers etc.
-* [Think-Check-Submit](https://thinkchecksubmit.org): this international, cross-sector initiative aims to educate researchers, promote integrity, and build trust in credible research and publications
-* [Beall's List](https://beallslist.net): a list of predatory journals & trusted resources
+* [Think-Check-Submit](https://thinkchecksubmit.org): This international, cross-sector initiative aims to educate researchers, promote integrity, and build trust in credible research and publications.
+* [Beall's List](https://beallslist.net): A list of predatory journals & trusted resources.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Data Visualisation
 
-* [BrainPainter](https://brainpainter.csail.mit.edu): a free software for visualisation of brain structures, biomarkers and associated pathological processes
-* [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL
-* [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art
+* [BrainPainter](https://brainpainter.csail.mit.edu): A free software for visualisation of brain structures, biomarkers and associated pathological processes.
+* [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL.
+* [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## AI tools for researchers
 * [Elicit](https://elicit.org): AI research assistant.
-* [Litmaps](https://www.litmaps.com/): research tool that helps visualize citation networks, allowing users to track academic papers, discover related research, and map the evolution of ideas.
-* [Perplexity](https://www.perplexity.ai): research tool and search engine that helps users find reliable, up-to-date information by combining LLMs with real-time web access.
-* [Scholarcy](https://www.scholarcy.com): summarize any paper, article or textbook (more efficient literature review).
-* [Explainpaper](https://www.explainpaper.com): upload and interact with complex academic papers by highlighting difficult sections and receiving simplified AI-generated explanations, improving comprehension.
-* [Connected Papers](https://www.connectedpapers.com): generates a graph of related research papers based on citation networks.
-* [Research Rabbit](https://www.researchrabbit.ai): literature discovery platform that enables to build collections of papers & visualize networks of related research.
+* [Litmaps](https://www.litmaps.com/): Research tool that helps visualize citation networks, allowing users to track academic papers, discover related research, and map the evolution of ideas.
+* [Perplexity](https://www.perplexity.ai): Research tool and search engine that helps users find reliable, up-to-date information by combining LLMs with real-time web access.
+* [Scholarcy](https://www.scholarcy.com): Aummarize any paper, article or textbook (more efficient literature review).
+* [Explainpaper](https://www.explainpaper.com): Upload and interact with complex academic papers by highlighting difficult sections and receiving simplified AI-generated explanations, improving comprehension.
+* [Connected Papers](https://www.connectedpapers.com): Generates a graph of related research papers based on citation networks.
+* [Research Rabbit](https://www.researchrabbit.ai): Literature discovery platform that enables to build collections of papers & visualize networks of related research.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Productivity
-* [reMarkable List](https://github.com/reHackable/awesome-reMarkable)**: A list of projects related to the reMarkable tablet.
+* [reMarkable List](https://github.com/reHackable/awesome-reMarkable): A list of projects related to the reMarkable tablet.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
