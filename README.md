@@ -107,6 +107,7 @@ SORTED: A curated collection of interesting ideas, tools, and resources in neuro
 * [BrainPainter](https://brainpainter.csail.mit.edu): A free software for visualisation of brain structures, biomarkers and associated pathological processes.
 * [HSLuv](https://www.hsluv.org): HSLuv is a human-friendly alternative to HSL.
 * [Information is beautiful](https://www.informationisbeautifulawards.com): The Information is Beautiful Awards celebrates excellence & beauty in data visualization, infographics, interactives &  information art.
+* [Coolors](https://coolors.co): Color palette generator that lets you create, explore, lock, export, and manage beautiful color schemes
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
